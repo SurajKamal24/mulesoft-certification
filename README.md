@@ -1,2 +1,2 @@
 # mulesoft-certification
-MuleSoft Certification Questiona
+MuleSoft Certification Questions
